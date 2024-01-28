@@ -1,6 +1,6 @@
-# djcoolbeans
-## Former Chef, turned nerd
-### > future prompt engineer of the future
+## djcoolbeans
+ Former Chef, turned nerd
+> future prompt engineer of the future
 
 
 - 🌱 I’m currently learning ... GCP, git, bash and python
