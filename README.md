@@ -1,5 +1,4 @@
-## djcoolbeans
- Former Chef, turned nerd
+> Former Chef, turned nerd
 > future prompt engineer of the future
 
 
