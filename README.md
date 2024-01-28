@@ -1,6 +1,4 @@
-> Former Chef, turned nerd
-
-> future prompt engineer of the future
+> Former Chef, turned nerd -- future prompt engineer of the future
 
 
 - 🌱 I’m currently learning ... GCP, git, bash and python
